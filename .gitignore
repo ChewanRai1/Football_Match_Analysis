@@ -1,2 +1,6 @@
 *__pycahce__*
 *.pyc
+
+yolov8x.pt
+models/best.pt
+models/last.pt

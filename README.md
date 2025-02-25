@@ -1,4 +1,4 @@
-# Football Analysis Project
+# Football Match Analysis
 
 ## Introduction
 
@@ -35,6 +35,3 @@ To run this project, you need to have the following requirements installed:
 - NumPy
 - Matplotlib
 - Pandas
-
-python3 yolo_inference.py
-python3 main.py

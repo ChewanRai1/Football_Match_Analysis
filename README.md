@@ -35,3 +35,10 @@ To run this project, you need to have the following requirements installed:
 - NumPy
 - Matplotlib
 - Pandas
+- scikit-learn
+
+python3 yolo_inference.py
+python3 main.py
+
+
+
